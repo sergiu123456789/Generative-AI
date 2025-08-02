@@ -23,7 +23,7 @@ Fine-tuned Meta’s LLaMA language model using **LoRA (Low-Rank Adaptation)** fo
 4. **Evaluation** – Tested on downstream tasks for instruction adherence and accuracy
 
 ## ✅ Results
-- Successfully fine-tuned LLaMA with reduced computational overhead
+- Trying to fine-tune LLaMA with reduced computational overhead
 - Improved domain-specific performance without full model retraining
 - Demonstrated practical LoRA usage for large-scale Transformer models
 
