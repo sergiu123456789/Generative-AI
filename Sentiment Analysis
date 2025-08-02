@@ -8,7 +8,7 @@ A complete NLP pipeline to classify text reviews as **positive** or **negative**
 - scikit-learn
 - pandas
 - matplotlib
-- Jupyter Notebook
+- CoLab
 
 ## 📌 Features
 - Text preprocessing: cleaning, tokenization, stemming, stopword removal
