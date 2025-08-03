@@ -1,0 +1,35 @@
+# 💬 Interactive Chatbot Interface with Gradio
+
+An interactive, human-like chatbot application built using **Gradio**. This app includes real-time **streaming responses**, **text input**, and **user-configurable controls** like sliders — all in a clean, browser-based UI.
+
+## 🔧 Tech Stack
+- Python
+- Gradio
+- OpenAI / Hugging Face Transformers (optional backend)
+- Async for real-time streaming
+
+## 📌 Features
+- 🔄 **Streaming replies**: Chatbot responses appear word-by-word, like a human typing
+- 🧠 **Real-time interaction**: Uses async generators for smooth conversational flow
+- 📝 **Text input box**: Accepts user messages
+- 🎚️ **Slider controls**: Adjust chatbot behavior (e.g., temperature or max tokens)
+- 🌐 **Web-based UI**: Runs in any browser via Gradio
+
+## 🧪 How It Works
+
+```python
+import gradio as gr
+
+def stream_response(message, temperature):
+    yield "Thinking..."
+    import time
+    for word in f"Simulated response to: '{message}' with temperature {temperature}".split():
+        time.sleep(0.1)
+        yield word + " "
+
+with gr.Blocks() as demo:
+    gr.Markdown("# 💬 Chatbot with Streaming")
+    txt = gr.Textbox(label="Your Message")
+    slider = gr.Slider(minimum=0, maximum=1, value=0.7, label="Temperature")
+    output = gr.Textbox(label="Bot Response")
+    btn
