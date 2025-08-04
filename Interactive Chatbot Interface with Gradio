@@ -20,16 +20,16 @@ An interactive, human-like chatbot application built using **Gradio**. This app 
 ```python
 import gradio as gr
 
-def stream_response(message, temperature):
-    yield "Thinking..."
-    import time
-    for word in f"Simulated response to: '{message}' with temperature {temperature}".split():
-        time.sleep(0.1)
-        yield word + " "
+full_response = ""  # Keep track of the full response if needed later
 
-with gr.Blocks() as demo:
-    gr.Markdown("# 💬 Chatbot with Streaming")
-    txt = gr.Textbox(label="Your Message")
-    slider = gr.Slider(minimum=0, maximum=1, value=0.7, label="Temperature")
-    output = gr.Textbox(label="Bot Response")
-    btn
+        # Loop through each chunk of the response as it arrives
+        for chunk in stream:
+            # Check if this chunk contains actual text content
+            if chunk.choices[0].delta and chunk.choices[0].delta.content:
+                # Extract the text from this chunk
+                text_chunk = chunk.choices[0].delta.content
+                # Add this chunk to our growing response
+                full_response += text_chunk
+                # 'yield' is special - it sends the current state of the response to Gradio
+                # This makes the text appear to be typing in real-time
+                yield full_response
