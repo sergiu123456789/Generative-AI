@@ -1,6 +1,6 @@
 # 🤖 Fine-Tuning LLaMA with LoRA
 
-Fine-tuned Meta’s LLaMA language model using another model; use **LoRA (Low-Rank Adaptation)** for parameter-efficient training, leveraging the Hugging Face ecosystem.
+Fine-tuned Meta’s LLaMA language model using **LoRA (Low-Rank Adaptation)** for parameter-efficient training, leveraging the Hugging Face ecosystem.
 
 ## 🔧 Tech Stack
 - Transformers (Hugging Face)
@@ -23,7 +23,7 @@ Fine-tuned Meta’s LLaMA language model using another model; use **LoRA (Low-Ra
 4. **Evaluation** – Tested on downstream tasks for instruction adherence and accuracy
 
 ## ✅ Results
-- Trying to fine-tune LLaMA with reduced computational overhead
+- Fine-tuning LLaMA with reduced computational overhead
 - Improved domain-specific performance without full model retraining
 - Demonstrated practical LoRA usage for large-scale Transformer models
 
