@@ -5,7 +5,6 @@ Developed an interactive chatbot with a custom personality using OpenAI's GPT-4 
 ## 🔧 Tech Stack
 - OpenAI GPT-4 API
 - Python
-- Flask (optional, for deployment)
 - Prompt engineering
 
 ## 📌 Features
