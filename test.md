@@ -12,7 +12,7 @@
 
 ## **Professional Objective**
 
-Leverage consistent software engineering experience to advance skills in **Natural Language Processing (NLP)** and **Machine Learning (ML)**, contributing to innovative, scalable AI-driven solutions.
+Leverage software engineering experience to develop expertise in **Natural Language Processing (NLP)** and **Machine Learning (ML)**. Contribute to innovative, scalable **AI-driven solutions**.
 
 ---
 
@@ -20,7 +20,7 @@ Leverage consistent software engineering experience to advance skills in **Natur
 
 | **Category** | **Technologies** |
 |--------------|------------------|
-| **Programming Languages** | Python, Java, PL/SQL, Shell, Perl, AWK |
+| **Programming Languages** | Python, Java, PL/SQL |
 | **ML/NLP Expertise** | Model development, evaluation, deployment |
 | **Frameworks & Tools** | AWS SageMaker, TensorFlow, PyTorch, Scikit-learn, NLTK, Pandas, NumPy |
 | **Chat APIs** | ChatGPT, Gemini, Claude, Llama |
