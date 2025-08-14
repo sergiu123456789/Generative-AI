@@ -23,22 +23,20 @@ Leverage consistent software engineering experience to advance skills in **Natur
 | **Programming Languages** | Python, Java, PL/SQL, Shell, Perl, AWK |
 | **ML/NLP Expertise** | Model development, evaluation, deployment |
 | **Frameworks & Tools** | AWS SageMaker, TensorFlow, PyTorch, Scikit-learn, NLTK, Pandas, NumPy |
-| **Chat API** | ChatGPT, Gemini, Claude, Llama |
+| **Chat APIs** | ChatGPT, Gemini, Claude, Llama |
 | **Cloud computing platforms** | AWS |
 
 ---
 
 ## **Professional Experience**
 
-### **AI/ML Skills Development** *(2025 - Present)*
+### **AI Skills Development** *(2025 - Present)*
 **Preparing to re-enter the programming field**
 
 **Artificial Intelligence Projects:**
 - **Generative AI:** AutoGen, Character AI chatbot, Interactive chatbot with Gradio, Fine Tuning Llama, Calorie tracker from image, Customized chatbot with RAG, Q&A document-based chatbot, Pydantic project
 - **Natural Language Processing:** Sentiment analysis implementation
 - **Deep Learning:** Artificial neural networks, Convolutional neural network classification
-
-**Machine Learning Implementations:**
 - **Regression Models:** Decision tree, Linear, Multiple linear, Polynomial, Random Forest, Support vector, SageMaker linear regression
 - **Classification Algorithms:** Decision tree, K-nearest neighbor (KNN), Logistic regression, Naïve Bayes, Random Forest, SVM, SVM RBF kernel
 - **Clustering Techniques:** Hierarchical clustering, K-Means clustering
