@@ -1,5 +1,5 @@
 # **Sergiu Traian Nicoara**
-**Software Engineer | AI/ML Specialist**
+**Software Engineer | AI Specialist**
 
 ---
 
