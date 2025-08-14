@@ -46,10 +46,10 @@ Leverage consistent software engineering experience to advance skills in **Natur
 - **Association Rules:** Apriori, Eclat algorithms
 
 **Recent Certifications (2025):**
-- ✅ **AWS Certified AI Practitioner**
-- ✅ **PCEP** - Certified Entry-Level Python Programmer
-- ✅ **PCAP** - Certified Associate Python Programmer
-- ✅ **PCPP1** - Certified Professional Python Programmer Level 1
+- **AWS Certified AI Practitioner**
+- **PCEP** - Certified Entry-Level Python Programmer
+- **PCAP** - Certified Associate Python Programmer
+- **PCPP1** - Certified Professional Python Programmer Level 1
 
 ---
 
@@ -73,23 +73,23 @@ Leverage consistent software engineering experience to advance skills in **Natur
 - Worked on multiple international projects serving millions of users across different continents
 
 **Major Projects:**
-- **🇦🇺 Telstra Australia & 🇸🇬 Starhub Singapore**  
+- **Telstra Australia & Starhub Singapore**  
   *Live TV on Mobile Platform*  
   Technologies: Struts, Axis2.0, MySQL
 
-- **🇫🇷 Alcatel Lucent France**  
+- **Alcatel Lucent France**  
   *Scalable Voice Processing & Alarm Systems*  
   Technologies: J2EE MBeans, Quartz Scheduler
 
-- **🇪🇬 Mobinil Africa & 🇵🇰 Mobilink Pakistan**  
+- **Mobinil Africa & Mobilink Pakistan**  
   *Personalized Ringback Tone Services*  
   Technologies: J2EE, Oracle Database
 
-- **🇬🇧 Thales UK**  
+- **Thales UK**  
   *Broadband Infrastructure Management*  
   Technologies: PL/SQL, Oracle
 
-**Core Technologies:** Java, J2EE, Python, C++, PL/pgSQL, Bash, Perl, XML, MySQL, Oracle, JBoss, BeaWeblogic
+**Core Technologies:** Java, J2EE, Python, C++, PL/SQL, Bash, Perl, XML, MySQL, Oracle, JBoss, BeaWeblogic
 
 ---
 
@@ -122,8 +122,8 @@ Leverage consistent software engineering experience to advance skills in **Natur
 
 | Language | Proficiency Level |
 |----------|-------------------|
-| **EN English** | Advanced |
-| **FR French** | Intermediate |
+| **English** | Advanced |
+| **French** | Intermediate |
 
 ---
 
