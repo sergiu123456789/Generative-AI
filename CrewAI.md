@@ -138,5 +138,3 @@ plt.show()
 ## Conclusion
 
 Using **CrewAI**, we created an intelligent, modular pipeline for predicting unit sales. Each agent handles a specific task—from preprocessing to reporting—enabling faster insights, more accurate predictions, and better collaboration with data scientists.
-
-The integrated **workflow diagram**, **Gantt chart**, and **sample plots** provide a clear, interactive, and project-ready documentation style suitable for notebooks, GitHub Markdown, or presentations.
