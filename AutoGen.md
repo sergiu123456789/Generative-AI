@@ -59,7 +59,7 @@ groupchat = GroupChat(
 # Initialize conversation
 group_manager = GroupChatManager(groupchat = groupchat, llm_config = llm_config_openai)  # Uses OpenAI's LLM to manage the conversation
 
-🛠️ Features
+## 🛠️ Features
 
 Modular agent design: Easily add or replace agents with different LLM backends.
 
@@ -69,7 +69,7 @@ Centralized message management: Group chat manager logs and routes conversations
 
 Role specialization: Each agent contributes unique expertise to the conversation.
 
-🚀 Use Cases
+## 🚀 Use Cases
 Collaborative marketing campaign design.
 
 Social media content brainstorming and scheduling.
@@ -78,7 +78,7 @@ Strategic decision-making with AI and human collaboration.
 
 Automated multi-agent customer engagement and support.
 
-📚 Requirements
+## 📚 Requirements
 Access to LLM APIs: OpenAI GPT, Anthropic Claude, Google Gemini
 
 Python 3.8+
