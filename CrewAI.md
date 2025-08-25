@@ -33,19 +33,6 @@ We leverage **CrewAI** to assemble a team of intelligent agents, each responsibl
 
 ---
 
-## Workflow Diagram
-
-```mermaid
-flowchart LR
-    A[Dataset\n(Date, Product, Category, Price, Discount, Location)] --> B[Data Preprocessing Agent]
-    B --> C[Model Training Agent]
-    C --> D[Evaluation Agent]
-    D --> E[Reporting Agent]
-    E --> F[Data Scientists & Stakeholders]
-```
-
----
-
 ## Pipeline Execution Timeline (Gantt Chart)
 
 ```mermaid
@@ -147,21 +134,6 @@ plt.show()
 | RMSE                       | 18.3   |
 | R²                         | 0.87   |
 | Total Predicted Units Sold | 15,230 |
-
-### Visualizations
-
-1. **Sales Trend Over Time**
-   ![Line Chart of Predicted vs Actual Sales](path/to/sales_trend.png)
-
-2. **Units Sold by Product Category**
-   ![Bar Chart of Units Sold per Category](path/to/category_sales.png)
-
-3. **Price vs Units Sold**
-   ![Scatter Plot of Price vs Units Sold](path/to/price_vs_sales.png)
-
-> **Note:** Images are placeholders. The **Reporting Agent** dynamically generates these plots in the actual workflow.
-
----
 
 ## Conclusion
 
