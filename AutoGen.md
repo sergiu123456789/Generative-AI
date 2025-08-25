@@ -58,7 +58,7 @@ groupchat = GroupChat(
 )
 # Initialize conversation
 group_manager = GroupChatManager(groupchat = groupchat, llm_config = llm_config_openai)  # Uses OpenAI's LLM to manage the conversation
-
+```
 ## 🛠️ Features
 
 Modular agent design: Easily add or replace agents with different LLM backends.
